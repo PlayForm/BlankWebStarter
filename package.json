@@ -26,12 +26,20 @@
 		"start": "astro dev"
 	},
 	"devDependencies": {
+<<<<<<< HEAD
 		"@astrojs/prefetch": "0.4.0",
+=======
+		"@astrojs/prefetch": "0.3.0",
+>>>>>>> 169f33805f4ad7009c922fbb0c579c64e3884e39
 		"@astrojs/sitemap": "3.0.0",
 		"@tailwindcss/aspect-ratio": "0.4.2",
 		"@tailwindcss/forms": "0.5.6",
 		"@tailwindcss/typography": "0.5.9",
+<<<<<<< HEAD
 		"astro": "3.0.0",
+=======
+		"astro": "3.0.1",
+>>>>>>> 169f33805f4ad7009c922fbb0c579c64e3884e39
 		"astro-compress": "2.0.14",
 		"astro-critters": "2.0.11",
 		"astro-rome": "2.0.8",
