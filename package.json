@@ -40,7 +40,11 @@
 		"astrojs-service-worker": "2.0.0",
 		"autoprefixer": "10.4.17",
 		"cssnano": "6.0.5",
+<<<<<<< HEAD
 		"cssnano-preset-advanced": "6.0.5",
+=======
+		"cssnano-preset-advanced": "6.0.4",
+>>>>>>> 839f19920d5f401161449d2210d3e0369ae32b8a
 		"dotenv": "16.4.5",
 		"firebase": "10.8.0",
 		"postcss": "8.4.35",
