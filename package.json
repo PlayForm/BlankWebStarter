@@ -2,7 +2,7 @@
 	"name": "blank-web-starter",
 	"version": "0.0.1",
 	"private": false,
-	"description": "📄 Starter template for AstroJS.",
+	"description": "📄 AstroJS Starter.",
 	"keywords": [
 		"astro",
 		"starter"
