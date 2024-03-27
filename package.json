@@ -2,7 +2,7 @@
 	"name": "blank-web-starter",
 	"version": "0.0.1",
 	"private": false,
-	"description": "📄 AstroJS Starter.",
+	"description": "📄 AstroJS Starter.",
 	"keywords": ["astro", "starter"],
 	"homepage": "https://github.com/Playform/BlankWebStarter#readme",
 	"bugs": {
