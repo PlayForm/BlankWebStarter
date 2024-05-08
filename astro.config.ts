@@ -5,6 +5,7 @@ export default (await import("astro/config")).defineConfig({
 	// TODO Place your site URL here
 	// site: "",
 	integrations: [
+		// @ts-ignore
 		import.meta.env.MODE === "production"
 			? (await import("astrojs-service-worker")).default()
 			: null,
