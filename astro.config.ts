@@ -4,6 +4,11 @@ export default (await import("astro/config")).defineConfig({
 	outDir: "./Target",
 	// TODO Place your site URL here
 	// site: "",
+<<<<<<< HEAD
+=======
+	compressHTML: true,
+	prefetch: true,
+>>>>>>> Fork/Current
 	integrations: [
 		// @ts-ignore
 		import.meta.env.MODE === "production"
