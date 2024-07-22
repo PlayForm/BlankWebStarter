@@ -4,11 +4,6 @@ export default (await import("astro/config")).defineConfig({
 	outDir: "./Target",
 	// TODO Place your site URL here
 	// site: "",
-<<<<<<< HEAD
-=======
-	compressHTML: true,
-	prefetch: true,
->>>>>>> Fork/Current
 	integrations: [
 		// @ts-ignore
 		import.meta.env.MODE === "production"
@@ -28,6 +23,9 @@ export default (await import("astro/config")).defineConfig({
 	vite: {
 		build: {
 			sourcemap: true,
+		},
+		resolve: {
+			preserveSymlinks: true,
 		},
 		css: {
 			devSourcemap: true,
