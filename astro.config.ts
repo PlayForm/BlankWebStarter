@@ -6,6 +6,9 @@ export default (await import("astro/config")).defineConfig({
 	outDir: "./Target",
 	// TODO Place your site URL here
 	// site: "",
+	build: {
+		concurrency: 9999
+	},
 	integrations: [
 		// @ts-ignore
 		import.meta.env.MODE === "production"
