@@ -7,7 +7,7 @@ export default (await import("astro/config")).defineConfig({
 	// TODO Place your site URL here
 	// site: "",
 	build: {
-		concurrency: 9999
+		concurrency: 9999,
 	},
 	integrations: [
 		// @ts-ignore
