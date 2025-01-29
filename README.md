@@ -1,4 +1,4 @@
-# 📄 [Starter] —
+# [Starter] 📄
 
 AstroJS Starter.
 
