@@ -8,9 +8,9 @@
 		"starter",
 		"playform"
 	],
-	"homepage": "HTTPS://GitHub.Com/PlayForm/BlankWebStarter#readme",
+	"homepage": "https://GitHub.Com/PlayForm/BlankWebStarter#readme",
 	"bugs": {
-		"url": "HTTPS://GitHub.Com/PlayForm/BlankWebStarter/issues"
+		"url": "https://GitHub.Com/PlayForm/BlankWebStarter/issues"
 	},
 	"repository": {
 		"type": "git",
@@ -20,7 +20,7 @@
 	"author": {
 		"name": "Source ✍🏻 Open 👐🏻",
 		"email": "Source/Open@PlayForm.Cloud",
-		"url": "HTTPS://PlayForm.Cloud"
+		"url": "https://PlayForm.Cloud"
 	},
 	"scripts": {
 		"Run": "astro dev --host",
